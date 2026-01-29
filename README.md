@@ -33,7 +33,7 @@
 - Served as a **Supervisor (3 years)**: trained and mentored new technicians, standardized troubleshooting workflows, and ensured shift readiness and quality control.
 - Documented incidents, resolutions, and procedures to improve consistency and reduce repeat issues.
 
-**Core tools/keywords:** NIPRNet, SIPRNet, secure communications, network troubleshooting, incident response, COMSEC, key loading, technical support, documentation, training/mentoring, leadership
+**Core tools/keywords:** NIPRNet, SIPRNet, secure communications, network troubleshooting, incident response, COMSEC, key loading, server administration, technical support, documentation, training/mentoring, leadership
 
 ---
 
