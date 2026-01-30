@@ -4,7 +4,7 @@
 # Jonisse Pagán  
 
 **Program:** B.S. in Computer Science (in progress)  
-**University:** University of Puerto Rico - Mayaguez, Puerto Rico  
+**University:** University of Puerto Rico - Mayaguez
 
 ---
 
